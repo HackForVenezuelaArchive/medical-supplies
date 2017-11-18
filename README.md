@@ -1,6 +1,14 @@
 # medical-supplies-app
 Create a scalable web-based platform to match medical and food supplies with people on the ground.
 
+### Team   
+- Alec    
+- Chloe    
+- Sachin    
+- Alex    
+- Jonathan    
+
+ 
 ### User Stories
 
 > As a ___, I want ___ in order to ___.
