@@ -7,6 +7,7 @@ Create a scalable web-based platform to match medical and food supplies with peo
 - Sachin    
 - Alex    
 - Jonathan    
+- Jinren Ping
 
  
 ### User Stories
