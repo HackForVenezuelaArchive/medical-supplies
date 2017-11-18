@@ -16,3 +16,7 @@ Create a scalable web-based platform to match medical and food supplies with peo
 - As a supply sender, I want to view the number of people affected by a specific shipment in order to understand the impact.
 
 - As a supply receiver, I want to receive reminders to fill out the supply impact form in order to satisfy the suppliers' data needs.
+
+### System design    
+![Alt text](/graph.JPG?raw=true "Optional Title")
+
