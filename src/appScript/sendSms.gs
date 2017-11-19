@@ -1,9 +1,9 @@
-function sendSms() {
+function sendSms(body, to) {
   var messages_url = "https://api.twilio.com/2010-04-01/Accounts/AC6b010408bda22c6c38d8933af11d9abc/Messages.json";
  
   var payload = {
-    "To": "+16199289309",
-    "Body" : "hello from twilio",
+    "To": to,
+    "Body" : body,
     "From" : "+16197386636"
   };
  
