@@ -10,6 +10,8 @@ Create a scalable web-based platform to match medical and food supplies with peo
 - Jinren Ping   
 - Dave   
 
+### Data    
+[Example shipment loadout](https://drive.google.com/drive/u/1/folders/1SZySZbgCkhJ3rr2VbHs0YC-6orSlL8R1)
  
 ### User Stories
 
