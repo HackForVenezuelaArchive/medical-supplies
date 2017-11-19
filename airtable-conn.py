@@ -16,8 +16,8 @@ journos = [{'natalia.matamoros': 'rec05W4ZjBJjmi84i'},
             {'juan.mejia': 'recS5jheR7sR98vWC'},
             {'yohana.marra': 'recpgfLsyHSJk1l2t'},
             {'daisy.galaviz': 'recsY5vOcePsJ2Y1y'}]
-# Fcuk doing this shit by hand
 
+# Fcuk doing this shit by hand
 preset = {"fields": {
     "Nombre de la víctima": "",
     "Sexo": "",
